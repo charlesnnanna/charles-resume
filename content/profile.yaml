@@ -1,0 +1,31 @@
+- profile:
+  initials: CU
+  name: Charles Uthulor
+  profession: Web Developer
+  image: "/images/profile.jpg"
+  location: Lagos, Nigeria
+  relocation: true
+  company: Nurture my Brand
+  for_hire: true
+  focus: Learning Django
+  focus_url: https://gatsbyjs.org
+  about: |
+    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+
+    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - Python
+  tools:
+    - React
+    - VSCode
+    - NextJS
+    - Git
+    - Gatsby
+    - Django
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
